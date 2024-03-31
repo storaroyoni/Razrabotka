@@ -1,2 +1,0 @@
-# Razrabotka
-proekt1
